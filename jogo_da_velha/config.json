@@ -1,0 +1,7 @@
+{
+  "nome_do_arquivo": "src/main.py",
+  "modo_execucao": "python",
+  "comandos": {
+    "test": "pytest"
+  }
+}

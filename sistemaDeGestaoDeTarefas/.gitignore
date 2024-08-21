@@ -1,0 +1,32 @@
+# Dependências
+node_modules/
+vendor/
+
+# Arquivos de build
+dist/
+build/
+
+# Arquivos de configuração locais
+.env
+
+# Arquivos de log
+*.log
+
+# Configurações de IDEs
+.vscode/
+.idea/
+
+# Arquivos de cache e temporários
+.cache/
+*.tmp
+
+# Arquivos de sistema e ocultos
+.DS_Store
+Thumbs.db
+
+# Arquivos de dados de testes
+coverage/
+
+# Outros arquivos não desejados
+*.sublime-workspace
+*.swp
