@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sistema de gestao de tarefas</title>
+</head>
+<link rel="stylesheet" href="styles/index.css">
+<body>
+<main>
+  <form id="task-form">
+    <input type="text" id="task-title" placeholder="Título da tarefa" required>
+    <input type="text" id="task-description" placeholder="Descrição da tarefa" required>
+    <select id="task-status">
+      <option value="pendente">Pendente</option>
+      <option value="em progresso">Em Progresso</option>
+      <option value="concluida">Concluída</option>
+    </select>
+    <button type="submit">Adicionar Tarefa</button>
+    <section>
+      <div id="tarefas-pendentes">
+        <h3>Pendentes</h3>
+        <ul id="lista-pendentes"></ul>
+      </div>
+      
+      <div id="tarefas-em-progresso">
+        <h3>Em Progresso</h3>
+        <ul id="lista-em-progresso"></ul>
+      </div>
+      
+      <div id="tarefas-concluidas">
+        <h3>Concluídas</h3>
+        <ul id="lista-concluidas"></ul>
+      </div>
+    </section>
+  </form>
+  
+</main>
+<script src="js/script.js"></script>
+</body>
+</html>
