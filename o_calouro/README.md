@@ -1,7 +1,7 @@
 # O Calouro
 
 ## Descrição
-"O Calouro" é um jogo interativo onde um robô atira para cima, e o objetivo é acertar os inimigos que aparecem na tela. O jogo oferece uma experiência divertida e desafiadora, testando os reflexos e a precisão do jogador.
+"O Calouro" é um jogo interativo onde um robô atira para cima para eliminar palavras que caem da tela. Cada palavra representa uma matéria da faculdade, com diferentes cores indicando a dificuldade: palavras vermelhas são difíceis e caem mais rápido, enquanto palavras verdes são fáceis e caem mais lentamente. O objetivo do jogo é acertar o maior número de palavras possível antes que elas atinjam o chão.
 
 ## Tecnologias
 - **Pygame**: Para desenvolvimento do jogo.
@@ -27,12 +27,17 @@ bash
 Copiar código
 python main.py
 Controle o robô usando as teclas designadas (por exemplo, as setas do teclado).
-Tente acertar os inimigos que aparecem na tela.
+Tente acertar as palavras que caem da tela.
+Mecânicas do Jogo
+Palavras: Cada palavra representa uma matéria da faculdade.
+Palavras vermelhas (difíceis) caem mais rapidamente.
+Palavras verdes (fáceis) caem mais lentamente.
+O jogador deve atirar nas palavras antes que elas atinjam o chão.
+Pontuação é baseada no número de palavras acertadas.
 Funcionalidades
-O robô dispara projetéis em direção aos inimigos.
-Contagem de pontos conforme o jogador acerta os inimigos.
 Gráficos e animações que tornam o jogo visualmente atraente.
 Sons e efeitos sonoros que enriquecem a experiência de jogo.
+Diferentes níveis de dificuldade baseados nas cores das palavras.
 Como Contribuir
 Fork o projeto.
 Crie uma nova branch para suas alterações:
@@ -50,3 +55,4 @@ git push origin minha-feature
 Abra um Pull Request.
 Licença
 Este projeto é licenciado sob a MIT License.
+
