@@ -1,9 +1,9 @@
 # O Calouro
 
 
+![imagens-d0-jogo](https://github.com/tpsousa/games-and-tools/blob/main/o_calouro/images/calouro%20tela%20inicial.png)
 
-
-![imagens do jogo](https://github.com/tpsousa/games-and-tools/blob/main/o_calouro/images/calouro%20jogo%20robo.png
+![](https://github.com/tpsousa/games-and-tools/blob/main/o_calouro/images/calouro%20jogo%20robo.png
 )
 
 
