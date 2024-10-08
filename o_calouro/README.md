@@ -1,7 +1,7 @@
 # O Calouro
 
 
-![imagens do jogo][(URL-da-imagem)](https://github.com/tpsousa/games-and-tools/blob/main/o_calouro/images/calouro%20jogo%20robo.png
+![imagens do jogo](https://github.com/tpsousa/games-and-tools/blob/main/o_calouro/images/calouro%20jogo%20robo.png
 )
 
 ## Descrição
