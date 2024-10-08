@@ -12,6 +12,7 @@
 "O Calouro" é um jogo interativo onde um robô atira para cima para eliminar palavras que caem da tela. Cada palavra representa uma matéria da faculdade, com diferentes cores indicando a dificuldade: palavras vermelhas são difíceis e caem mais rápido, enquanto palavras verdes são fáceis e caem mais lentamente. O objetivo do jogo é acertar o maior número de palavras possível antes que elas atinjam o chão.
 
 ## Tecnologias
+- **Inteligência Artificial** :Para a criação das imagens.
 - **Pygame**: Para desenvolvimento do jogo.
 - **Python**: Linguagem de programação utilizada.
 - **Git**: Para versionamento do código.
