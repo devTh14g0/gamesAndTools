@@ -1,8 +1,12 @@
 # O Calouro
 
 
+
+
 ![imagens do jogo](https://github.com/tpsousa/games-and-tools/blob/main/o_calouro/images/calouro%20jogo%20robo.png
 )
+
+
 
 ## Descrição
 "O Calouro" é um jogo interativo onde um robô atira para cima para eliminar palavras que caem da tela. Cada palavra representa uma matéria da faculdade, com diferentes cores indicando a dificuldade: palavras vermelhas são difíceis e caem mais rápido, enquanto palavras verdes são fáceis e caem mais lentamente. O objetivo do jogo é acertar o maior número de palavras possível antes que elas atinjam o chão.
